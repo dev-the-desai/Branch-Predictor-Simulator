@@ -36,8 +36,8 @@ This project implements a configurable branch predictor simulator that supports 
 ## Build Instructions
 ```bash
 # Clone the repository
-git clone [repository-url]
-cd branch-predictor-simulator
+git clone https://github.com/dev-the-desai/Branch-Predictor-Simulator
+cd Branch-Predictor-Simulator
 
 # Build the project
 make
